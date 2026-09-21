@@ -22,7 +22,6 @@ This project is a Cisco Packet Tracer simulation of a Crime Scene Network. It de
 ### VLANs
 *   **VLAN 10 (Investigation):** Assigned to Investigator, Forensic, and Evidence Server ports.
 *   **VLAN 20 (Administration):** Assigned to Employee and Backup Server ports.
-*   *Note: All unused ports are assigned to VLAN 999 (Parking Lot) and shut down for security.*
 
 ### Server Services (Evidence-Server)
 *   **DNS:** 
